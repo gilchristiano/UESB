@@ -897,3 +897,32 @@ a {
   background-color: #2e481a;
   overflow: hidden;
 }
+.cid-tSwj15vUqL {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #edefeb;
+}
+.cid-tSwj15vUqL .item-wrapper {
+  background: #ffffff;
+  padding: 2.25rem;
+  margin: 0;
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-tSwj15vUqL .item-wrapper {
+    padding: 1.5rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+.cid-tSwmQLsvmD {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tSwcH4C3gT {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e481a;
+  overflow: hidden;
+}
